@@ -1,5 +1,6 @@
 # Google Cast and Wear OS Exercises
 Google Cast and Wear OS development lesson and exercises prepared for the CIS 4500.
+
 By Ben Rotke (Chromecast) and Michael Truong (Android Wearables)
 
 ## Layout
